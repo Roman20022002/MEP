@@ -1,0 +1,11 @@
+Please first ``pip install -U qiskit`` to enable related functionality in translation module
+Please first ``pip install -U cirq`` to enable related functionality in translation module
+fail to load cloud provider module: tencent
+/home/s4116488/Documents/MPS/cuda-samples/jax_venv/lib/python3.12/site-packages/jax/_src/lax/lax.py:5301: ComplexWarning: Casting complex values to real discards the imaginary part
+  x_bar = _convert_element_type(x_bar, x.aval.dtype, x.aval.weak_type)
+Traceback (most recent call last):
+  File "/scratchdata/s4116488/4116858/tc_gpu_14_bond_8_init_3_4116858/tc_gpu_14.py", line 221, in <module>
+    train()
+  File "/scratchdata/s4116488/4116858/tc_gpu_14_bond_8_init_3_4116858/tc_gpu_14.py", line 152, in train
+    raise ValueError(f"[FATAL] NaN encountered at epoch {epoch} for bond={bond_dimension}, init={init_index}. Terminating script.")
+ValueError: [FATAL] NaN encountered at epoch 8 for bond=8, init=3. Terminating script.

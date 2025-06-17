@@ -1,0 +1,29 @@
+[/bin/bash] #### Starting GPU TensorCircuit array job
+[/bin/bash] This is s4116488 and my MPS job has the ID 4094644, Task ID 22
+[/bin/bash] Using bond dimension: 6 and init index: 2
+[/bin/bash] CWD: /home/s4116488/Documents/MPS/cuda-samples
+[/bin/bash] Using GPU: 0
+[/bin/bash] Path of python file: /home/s4116488/Documents/MPS/cuda-samples
+[/bin/bash] Node scratch: /scratchdata/s4116488/4094644
+[/bin/bash] Run directory/scratchdata/s4116488/4094644/tc_gpu_8_bond_6_init_2_4094644
+[/bin/bash] Run script with bond dimension 6 and init index 2
+
+[INFO] Running train with bond dimension: 6
+[INFO] Using init index: 2
+Epoch 0: l_f = 58.094753, l_q = 1.479799, avg S = 0.5417/1.7918, max S = 1.0578/1.7918 (epoch time: 88.00s)
+Epoch 10: l_f = 1.733140, l_q = 0.004572, avg S = 0.5983/1.7918, max S = 1.1736/1.7918 (epoch time: 62.67s)
+Epoch 20: l_f = 0.556363, l_q = 0.021432, avg S = 0.5960/1.7918, max S = 1.2064/1.7918 (epoch time: 57.22s)
+Epoch 30: l_f = 0.143385, l_q = 0.000962, avg S = 0.5893/1.7918, max S = 1.1637/1.7918 (epoch time: 61.66s)
+Epoch 40: l_f = 0.038623, l_q = 0.000301, avg S = 0.5861/1.7918, max S = 1.1591/1.7918 (epoch time: 56.87s)
+Epoch 50: l_f = 0.047891, l_q = 0.000623, avg S = 0.5843/1.7918, max S = 1.1497/1.7918 (epoch time: 63.87s)
+Epoch 60: l_f = 0.025813, l_q = 0.000116, avg S = 0.5868/1.7918, max S = 1.1518/1.7918 (epoch time: 61.89s)
+Epoch 70: l_f = 0.021317, l_q = 0.000068, avg S = 0.5865/1.7918, max S = 1.1485/1.7918 (epoch time: 60.10s)
+Epoch 80: l_f = 0.020590, l_q = 0.000058, avg S = 0.5864/1.7918, max S = 1.1503/1.7918 (epoch time: 59.90s)
+Epoch 90: l_f = 0.018713, l_q = 0.000097, avg S = 0.5855/1.7918, max S = 1.1466/1.7918 (epoch time: 62.20s)
+SubTraining time: 5362.29s
+L_f = 0.013999, L_q = 0.000075
+[SUMMARY] Full script time: 5372.76s
+[/bin/bash] Script finished
+[/bin/bash] Copy files back to cwd
+[/bin/bash] Successfully copied results to /home/s4116488/Documents/MPS/cuda-samples/plots8_bond_6/index_2
+[/bin/bash] #### Finished GPU TensorCircuit array job. Have a nice day

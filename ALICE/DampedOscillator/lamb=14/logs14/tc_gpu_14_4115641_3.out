@@ -1,0 +1,17 @@
+[/bin/bash] #### Starting GPU TensorCircuit array job
+[/bin/bash] This is s4116488 and my MPS job has the ID 4116858, Task ID 3
+[/bin/bash] Using bond dimension: 8 and init index: 3
+[/bin/bash] CWD: /home/s4116488/Documents/MPS/cuda-samples
+[/bin/bash] Using GPU: 0
+[/bin/bash] Path of python file: /home/s4116488/Documents/MPS/cuda-samples
+[/bin/bash] Node scratch: /scratchdata/s4116488/4116858
+[/bin/bash] Run directory/scratchdata/s4116488/4116858/tc_gpu_14_bond_8_init_3_4116858
+[/bin/bash] Run script with bond dimension 8 and init index 3
+
+[INFO] Running train with bond dimension: 8
+[INFO] Using init index: 3
+Epoch 0: l_f = 48.599403, l_q = 1.008945, avg S = 0.5679/2.0794, max S = 1.5556/2.0794 (epoch time: 102.42s)
+[/bin/bash] Script finished
+[/bin/bash] Copy files back to cwd
+[/bin/bash] Successfully copied results to /home/s4116488/Documents/MPS/cuda-samples/plots14_bond_8/index_3
+[/bin/bash] #### Finished GPU TensorCircuit array job. Have a nice day

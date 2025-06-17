@@ -1,0 +1,9 @@
+[/bin/bash] #### Starting GPU TensorCircuit array job
+[/bin/bash] This is s4116488 and my MPS job has the ID 4075140, Task ID 39
+[/bin/bash] Using bond dimension: 5 and init index: 9
+[/bin/bash] CWD: /home/s4116488/Documents/MPS/cuda-samples
+[/bin/bash] Using GPU: 0
+[/bin/bash] Path of python file: /home/s4116488/Documents/MPS/cuda-samples
+[/bin/bash] Node scratch: /scratchdata/s4116488/4075140
+[/bin/bash] Run directory/scratchdata/s4116488/4075140/tc_gpu_A_bond_5_init_9_4075140
+[/bin/bash] Run script with bond dimension 5 and init index 9

@@ -1,0 +1,3 @@
+Please first ``pip install -U qiskit`` to enable related functionality in translation module
+Please first ``pip install -U cirq`` to enable related functionality in translation module
+fail to load cloud provider module: tencent

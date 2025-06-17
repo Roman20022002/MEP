@@ -1,0 +1,29 @@
+[/bin/bash] #### Starting GPU TensorCircuit array job
+[/bin/bash] This is s4116488 and my MPS job has the ID 4112950, Task ID 47
+[/bin/bash] Using bond dimension: 4 and init index: 7
+[/bin/bash] CWD: /home/s4116488/Documents/MPS/cuda-samples
+[/bin/bash] Using GPU: 0
+[/bin/bash] Path of python file: /home/s4116488/Documents/MPS/cuda-samples
+[/bin/bash] Node scratch: /scratchdata/s4116488/4112950
+[/bin/bash] Run directory/scratchdata/s4116488/4112950/tc_gpu_12_bond_4_init_7_4112950
+[/bin/bash] Run script with bond dimension 4 and init index 7
+
+[INFO] Running train with bond dimension: 4
+[INFO] Using init index: 7
+Epoch 0: l_f = 56.120338, l_q = 2.035971, avg S = 0.5740/1.3863, max S = 1.1705/1.3863 (epoch time: 97.63s)
+Epoch 10: l_f = 3.556355, l_q = 0.063769, avg S = 0.5712/1.3863, max S = 1.2080/1.3863 (epoch time: 53.88s)
+Epoch 20: l_f = 0.992517, l_q = 0.005563, avg S = 0.5752/1.3863, max S = 1.1847/1.3863 (epoch time: 72.14s)
+Epoch 30: l_f = 0.411517, l_q = 0.004254, avg S = 0.5796/1.3863, max S = 1.2039/1.3863 (epoch time: 73.64s)
+Epoch 40: l_f = 0.235434, l_q = 0.004549, avg S = 0.5851/1.3863, max S = 1.2096/1.3863 (epoch time: 71.95s)
+Epoch 50: l_f = 0.068037, l_q = 0.001743, avg S = 0.5839/1.3863, max S = 1.2039/1.3863 (epoch time: 74.01s)
+Epoch 60: l_f = 0.077526, l_q = 0.002159, avg S = 0.5877/1.3863, max S = 1.2090/1.3863 (epoch time: 70.36s)
+Epoch 70: l_f = 0.037528, l_q = 0.001891, avg S = 0.5906/1.3863, max S = 1.2166/1.3863 (epoch time: 71.82s)
+Epoch 80: l_f = 0.016713, l_q = 0.000439, avg S = 0.5905/1.3863, max S = 1.2191/1.3863 (epoch time: 71.51s)
+Epoch 90: l_f = 0.013456, l_q = 0.000403, avg S = 0.5893/1.3863, max S = 1.2179/1.3863 (epoch time: 74.23s)
+SubTraining time: 6162.88s
+L_f = 0.011308, L_q = 0.000661
+[SUMMARY] Full script time: 6176.44s
+[/bin/bash] Script finished
+[/bin/bash] Copy files back to cwd
+[/bin/bash] Successfully copied results to /home/s4116488/Documents/MPS/cuda-samples/plots12_bond_4/index_7
+[/bin/bash] #### Finished GPU TensorCircuit array job. Have a nice day

@@ -1,0 +1,29 @@
+[/bin/bash] #### Starting GPU TensorCircuit array job
+[/bin/bash] This is s4116488 and my MPS job has the ID 4097129, Task ID 68
+[/bin/bash] Using bond dimension: 2 and init index: 8
+[/bin/bash] CWD: /home/s4116488/Documents/MPS/cuda-samples
+[/bin/bash] Using GPU: 0
+[/bin/bash] Path of python file: /home/s4116488/Documents/MPS/cuda-samples
+[/bin/bash] Node scratch: /scratchdata/s4116488/4097129
+[/bin/bash] Run directory/scratchdata/s4116488/4097129/tc_gpu_10_bond_2_init_8_4097129
+[/bin/bash] Run script with bond dimension 2 and init index 8
+
+[INFO] Running train with bond dimension: 2
+[INFO] Using init index: 8
+Epoch 0: l_f = 128.733017, l_q = 1.759213, avg S = 0.4801/0.6931, max S = 0.6746/0.6931 (epoch time: 61.21s)
+Epoch 10: l_f = 30.818542, l_q = 0.961763, avg S = 0.4423/0.6931, max S = 0.6506/0.6931 (epoch time: 28.23s)
+Epoch 20: l_f = 5.916844, l_q = 0.306630, avg S = 0.4549/0.6931, max S = 0.6654/0.6931 (epoch time: 30.35s)
+Epoch 30: l_f = 3.355588, l_q = 0.309437, avg S = 0.4441/0.6931, max S = 0.6634/0.6931 (epoch time: 30.36s)
+Epoch 40: l_f = 7.680950, l_q = 0.389175, avg S = 0.4741/0.6931, max S = 0.6927/0.6931 (epoch time: 30.95s)
+Epoch 50: l_f = 2.460576, l_q = 0.091148, avg S = 0.4799/0.6931, max S = 0.7026/0.6931 (epoch time: 30.19s)
+Epoch 60: l_f = 3.322577, l_q = 0.076286, avg S = 0.4786/0.6931, max S = 0.6983/0.6931 (epoch time: 31.54s)
+Epoch 70: l_f = 1.473703, l_q = 0.029748, avg S = 0.4772/0.6931, max S = 0.6915/0.6931 (epoch time: 30.43s)
+Epoch 80: l_f = 0.860103, l_q = 0.012217, avg S = 0.4741/0.6931, max S = 0.6867/0.6931 (epoch time: 30.43s)
+Epoch 90: l_f = 0.394597, l_q = 0.012321, avg S = 0.4739/0.6931, max S = 0.6842/0.6931 (epoch time: 31.28s)
+SubTraining time: 2738.35s
+L_f = 0.215507, L_q = 0.006710
+[SUMMARY] Full script time: 2746.38s
+[/bin/bash] Script finished
+[/bin/bash] Copy files back to cwd
+[/bin/bash] Successfully copied results to /home/s4116488/Documents/MPS/cuda-samples/plots10_bond_2/index_8
+[/bin/bash] #### Finished GPU TensorCircuit array job. Have a nice day

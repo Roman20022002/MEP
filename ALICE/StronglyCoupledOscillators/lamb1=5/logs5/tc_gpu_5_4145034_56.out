@@ -1,0 +1,44 @@
+[/bin/bash] #### Starting GPU TensorCircuit array job
+[/bin/bash] This is s4116488 and my MPS job has the ID 4146307, Task ID 56
+[/bin/bash] Using bond dimension: 3 and init index: 6
+[/bin/bash] CWD: /home/s4116488/Documents/MPS/cuda-samples
+[/bin/bash] Using GPU: 0
+[/bin/bash] Path of python file: /home/s4116488/Documents/MPS/cuda-samples
+[/bin/bash] Node scratch: /scratchdata/s4116488/4146307
+[/bin/bash] Run directory/scratchdata/s4116488/4146307/tc_gpu_5_bond_3_init_6_4146307
+[/bin/bash] Run script with bond dimension 3 and init index 6
+
+[INFO] Running train with bond dimension: 3
+[INFO] Using init index: 6
+Epoch 0: l_f = 83.942307, l_q1 = 0.757680, l_q2 = 0.301085 (epoch time: 96.27s)
+Epoch 10: l_f = 8.194307, l_q1 = 0.157033, l_q2 = 0.153751 (epoch time: 59.61s)
+Epoch 20: l_f = 4.683919, l_q1 = 0.218974, l_q2 = 0.137972 (epoch time: 60.81s)
+Epoch 30: l_f = 2.800386, l_q1 = 0.248555, l_q2 = 0.119816 (epoch time: 64.52s)
+Epoch 40: l_f = 1.818833, l_q1 = 0.287006, l_q2 = 0.117449 (epoch time: 62.47s)
+Epoch 50: l_f = 1.082771, l_q1 = 0.319306, l_q2 = 0.116778 (epoch time: 64.88s)
+Epoch 60: l_f = 0.729293, l_q1 = 0.309223, l_q2 = 0.114241 (epoch time: 65.64s)
+Epoch 70: l_f = 0.516360, l_q1 = 0.294670, l_q2 = 0.118596 (epoch time: 63.55s)
+Epoch 80: l_f = 0.414858, l_q1 = 0.283988, l_q2 = 0.110234 (epoch time: 64.03s)
+Epoch 90: l_f = 0.291984, l_q1 = 0.265342, l_q2 = 0.106028 (epoch time: 64.90s)
+Epoch 100: l_f = 0.229040, l_q1 = 0.264000, l_q2 = 0.104153 (epoch time: 67.96s)
+Epoch 110: l_f = 0.152509, l_q1 = 0.261664, l_q2 = 0.102399 (epoch time: 63.64s)
+Epoch 120: l_f = 0.134386, l_q1 = 0.267163, l_q2 = 0.103993 (epoch time: 67.95s)
+Epoch 130: l_f = 0.090961, l_q1 = 0.267499, l_q2 = 0.103579 (epoch time: 67.33s)
+Epoch 140: l_f = 0.080999, l_q1 = 0.270686, l_q2 = 0.103119 (epoch time: 66.79s)
+Epoch 150: l_f = 0.047187, l_q1 = 0.264997, l_q2 = 0.104325 (epoch time: 70.53s)
+Epoch 160: l_f = 0.026270, l_q1 = 0.268896, l_q2 = 0.102933 (epoch time: 71.58s)
+Epoch 170: l_f = 0.028239, l_q1 = 0.267264, l_q2 = 0.101805 (epoch time: 70.81s)
+Epoch 180: l_f = 0.025687, l_q1 = 0.273153, l_q2 = 0.100058 (epoch time: 73.95s)
+Epoch 190: l_f = 0.038132, l_q1 = 0.268771, l_q2 = 0.099503 (epoch time: 75.18s)
+Epoch 200: l_f = 0.018799, l_q1 = 0.271444, l_q2 = 0.097688 (epoch time: 71.70s)
+Epoch 210: l_f = 0.020335, l_q1 = 0.265466, l_q2 = 0.097885 (epoch time: 76.92s)
+Epoch 220: l_f = 0.016053, l_q1 = 0.255903, l_q2 = 0.096813 (epoch time: 69.23s)
+Epoch 230: l_f = 0.023174, l_q1 = 0.253890, l_q2 = 0.097906 (epoch time: 64.56s)
+Epoch 240: l_f = 0.013399, l_q1 = 0.261504, l_q2 = 0.095784 (epoch time: 73.13s)
+SubTraining time: 14556.55s
+L_f = 0.025396, L_q1 = 0.262990, L_q2 = 0.098259
+[SUMMARY] Full script time: 14574.98s
+[/bin/bash] Script finished
+[/bin/bash] Copy files back to cwd
+[/bin/bash] Successfully copied results to /home/s4116488/Documents/MPS/cuda-samples/plots5_bond_3/index_6
+[/bin/bash] #### Finished GPU TensorCircuit array job. Have a nice day

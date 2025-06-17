@@ -1,0 +1,29 @@
+[/bin/bash] #### Starting GPU TensorCircuit array job
+[/bin/bash] This is s4116488 and my MPS job has the ID 4096869, Task ID 63
+[/bin/bash] Using bond dimension: 2 and init index: 3
+[/bin/bash] CWD: /home/s4116488/Documents/MPS/cuda-samples
+[/bin/bash] Using GPU: 0
+[/bin/bash] Path of python file: /home/s4116488/Documents/MPS/cuda-samples
+[/bin/bash] Node scratch: /scratchdata/s4116488/4096869
+[/bin/bash] Run directory/scratchdata/s4116488/4096869/tc_gpu_10_bond_2_init_3_4096869
+[/bin/bash] Run script with bond dimension 2 and init index 3
+
+[INFO] Running train with bond dimension: 2
+[INFO] Using init index: 3
+Epoch 0: l_f = 72.065063, l_q = 2.032863, avg S = 0.4620/0.6931, max S = 0.6698/0.6931 (epoch time: 58.85s)
+Epoch 10: l_f = 17.844168, l_q = 1.533898, avg S = 0.4332/0.6931, max S = 0.6632/0.6931 (epoch time: 28.56s)
+Epoch 20: l_f = 6.721834, l_q = 0.745739, avg S = 0.4300/0.6931, max S = 0.6271/0.6931 (epoch time: 30.67s)
+Epoch 30: l_f = 2.440948, l_q = 0.155120, avg S = 0.4220/0.6931, max S = 0.6657/0.6931 (epoch time: 31.30s)
+Epoch 40: l_f = 0.998158, l_q = 0.012033, avg S = 0.4365/0.6931, max S = 0.6609/0.6931 (epoch time: 31.13s)
+Epoch 50: l_f = 0.271229, l_q = 0.010069, avg S = 0.4379/0.6931, max S = 0.6621/0.6931 (epoch time: 31.84s)
+Epoch 60: l_f = 0.142528, l_q = 0.004291, avg S = 0.4395/0.6931, max S = 0.6661/0.6931 (epoch time: 35.10s)
+Epoch 70: l_f = 0.069894, l_q = 0.001017, avg S = 0.4400/0.6931, max S = 0.6637/0.6931 (epoch time: 32.42s)
+Epoch 80: l_f = 0.038962, l_q = 0.000596, avg S = 0.4405/0.6931, max S = 0.6656/0.6931 (epoch time: 34.48s)
+Epoch 90: l_f = 0.018748, l_q = 0.000223, avg S = 0.4405/0.6931, max S = 0.6639/0.6931 (epoch time: 33.59s)
+SubTraining time: 2859.68s
+L_f = 0.017385, L_q = 0.000114
+[SUMMARY] Full script time: 2867.96s
+[/bin/bash] Script finished
+[/bin/bash] Copy files back to cwd
+[/bin/bash] Successfully copied results to /home/s4116488/Documents/MPS/cuda-samples/plots10_bond_2/index_3
+[/bin/bash] #### Finished GPU TensorCircuit array job. Have a nice day

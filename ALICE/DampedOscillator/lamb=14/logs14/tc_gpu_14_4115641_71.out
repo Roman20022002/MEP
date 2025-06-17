@@ -1,0 +1,29 @@
+[/bin/bash] #### Starting GPU TensorCircuit array job
+[/bin/bash] This is s4116488 and my MPS job has the ID 4129783, Task ID 71
+[/bin/bash] Using bond dimension: 1 and init index: 1
+[/bin/bash] CWD: /home/s4116488/Documents/MPS/cuda-samples
+[/bin/bash] Using GPU: 0
+[/bin/bash] Path of python file: /home/s4116488/Documents/MPS/cuda-samples
+[/bin/bash] Node scratch: /scratchdata/s4116488/4129783
+[/bin/bash] Run directory/scratchdata/s4116488/4129783/tc_gpu_14_bond_1_init_1_4129783
+[/bin/bash] Run script with bond dimension 1 and init index 1
+
+[INFO] Running train with bond dimension: 1
+[INFO] Using init index: 1
+Epoch 0: l_f = 46.936882, l_q = 0.992660, avg S = 0.0450/0.0000, max S = 0.1125/0.0000 (epoch time: 36.31s)
+Epoch 10: l_f = 40.064426, l_q = 0.953423, avg S = 0.0243/0.0000, max S = 0.0607/0.0000 (epoch time: 19.05s)
+Epoch 20: l_f = 45.547691, l_q = 0.959093, avg S = 0.0252/0.0000, max S = 0.0631/0.0000 (epoch time: 19.74s)
+Epoch 30: l_f = 41.489475, l_q = 0.977214, avg S = 0.0269/0.0000, max S = 0.0673/0.0000 (epoch time: 19.90s)
+Epoch 40: l_f = 45.125927, l_q = 0.984818, avg S = 0.0257/0.0000, max S = 0.0642/0.0000 (epoch time: 20.09s)
+Epoch 50: l_f = 38.338642, l_q = 0.967265, avg S = 0.0279/0.0000, max S = 0.0698/0.0000 (epoch time: 20.00s)
+Epoch 60: l_f = 54.945858, l_q = 0.993616, avg S = 0.0189/0.0000, max S = 0.0472/0.0000 (epoch time: 20.58s)
+Epoch 70: l_f = 39.886135, l_q = 0.975323, avg S = 0.0240/0.0000, max S = 0.0600/0.0000 (epoch time: 20.33s)
+Epoch 80: l_f = 43.570049, l_q = 0.964451, avg S = 0.0155/0.0000, max S = 0.0388/0.0000 (epoch time: 20.95s)
+Epoch 90: l_f = 40.396393, l_q = 0.993251, avg S = 0.0156/0.0000, max S = 0.0389/0.0000 (epoch time: 21.08s)
+SubTraining time: 1796.66s
+L_f = 42.138195, L_q = 1.000955
+[SUMMARY] Full script time: 1802.39s
+[/bin/bash] Script finished
+[/bin/bash] Copy files back to cwd
+[/bin/bash] Successfully copied results to /home/s4116488/Documents/MPS/cuda-samples/plots14_bond_1/index_1
+[/bin/bash] #### Finished GPU TensorCircuit array job. Have a nice day

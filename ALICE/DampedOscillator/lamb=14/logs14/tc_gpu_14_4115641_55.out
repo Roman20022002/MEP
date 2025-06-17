@@ -1,0 +1,29 @@
+[/bin/bash] #### Starting GPU TensorCircuit array job
+[/bin/bash] This is s4116488 and my MPS job has the ID 4128301, Task ID 55
+[/bin/bash] Using bond dimension: 3 and init index: 5
+[/bin/bash] CWD: /home/s4116488/Documents/MPS/cuda-samples
+[/bin/bash] Using GPU: 0
+[/bin/bash] Path of python file: /home/s4116488/Documents/MPS/cuda-samples
+[/bin/bash] Node scratch: /scratchdata/s4116488/4128301
+[/bin/bash] Run directory/scratchdata/s4116488/4128301/tc_gpu_14_bond_3_init_5_4128301
+[/bin/bash] Run script with bond dimension 3 and init index 5
+
+[INFO] Running train with bond dimension: 3
+[INFO] Using init index: 5
+Epoch 0: l_f = 76.216209, l_q = 1.706388, avg S = 0.3995/1.0986, max S = 0.8055/1.0986 (epoch time: 96.16s)
+Epoch 10: l_f = 55.371735, l_q = 0.679522, avg S = 0.3882/1.0986, max S = 0.8126/1.0986 (epoch time: 53.31s)
+Epoch 20: l_f = 112.960831, l_q = 0.353641, avg S = 0.3959/1.0986, max S = 0.8288/1.0986 (epoch time: 53.28s)
+Epoch 30: l_f = 32.875774, l_q = 1.251561, avg S = 0.4025/1.0986, max S = 0.8616/1.0986 (epoch time: 55.16s)
+Epoch 40: l_f = 20.767632, l_q = 1.658086, avg S = 0.4052/1.0986, max S = 0.8481/1.0986 (epoch time: 56.66s)
+Epoch 50: l_f = 10.237499, l_q = 1.287838, avg S = 0.4027/1.0986, max S = 0.8392/1.0986 (epoch time: 57.52s)
+Epoch 60: l_f = 5.334749, l_q = 1.031421, avg S = 0.4005/1.0986, max S = 0.8352/1.0986 (epoch time: 57.64s)
+Epoch 70: l_f = 3.135546, l_q = 0.836529, avg S = 0.3991/1.0986, max S = 0.8330/1.0986 (epoch time: 56.48s)
+Epoch 80: l_f = 2.814238, l_q = 0.728470, avg S = 0.3974/1.0986, max S = 0.8288/1.0986 (epoch time: 56.60s)
+Epoch 90: l_f = 1.778609, l_q = 0.688186, avg S = 0.3956/1.0986, max S = 0.8286/1.0986 (epoch time: 59.39s)
+SubTraining time: 4974.82s
+L_f = 1.293845, L_q = 0.642641
+[SUMMARY] Full script time: 4986.27s
+[/bin/bash] Script finished
+[/bin/bash] Copy files back to cwd
+[/bin/bash] Successfully copied results to /home/s4116488/Documents/MPS/cuda-samples/plots14_bond_3/index_5
+[/bin/bash] #### Finished GPU TensorCircuit array job. Have a nice day

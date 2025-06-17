@@ -1,0 +1,29 @@
+[/bin/bash] #### Starting GPU TensorCircuit array job
+[/bin/bash] This is s4116488 and my MPS job has the ID 4094190, Task ID 5
+[/bin/bash] Using bond dimension: 8 and init index: 5
+[/bin/bash] CWD: /home/s4116488/Documents/MPS/cuda-samples
+[/bin/bash] Using GPU: 0
+[/bin/bash] Path of python file: /home/s4116488/Documents/MPS/cuda-samples
+[/bin/bash] Node scratch: /scratchdata/s4116488/4094190
+[/bin/bash] Run directory/scratchdata/s4116488/4094190/tc_gpu_8_bond_8_init_5_4094190
+[/bin/bash] Run script with bond dimension 8 and init index 5
+
+[INFO] Running train with bond dimension: 8
+[INFO] Using init index: 5
+Epoch 0: l_f = 67.077568, l_q = 2.945424, avg S = 0.5618/2.0794, max S = 1.0653/2.0794 (epoch time: 88.31s)
+Epoch 10: l_f = 2.125090, l_q = 0.025685, avg S = 0.5146/2.0794, max S = 0.9926/2.0794 (epoch time: 50.71s)
+Epoch 20: l_f = 0.580886, l_q = 0.054045, avg S = 0.5322/2.0794, max S = 0.9982/2.0794 (epoch time: 49.19s)
+Epoch 30: l_f = 0.273917, l_q = 0.014620, avg S = 0.5287/2.0794, max S = 0.9787/2.0794 (epoch time: 50.89s)
+Epoch 40: l_f = 0.101666, l_q = 0.001217, avg S = 0.5377/2.0794, max S = 1.0021/2.0794 (epoch time: 51.07s)
+Epoch 50: l_f = 0.055059, l_q = 0.000403, avg S = 0.5436/2.0794, max S = 1.0160/2.0794 (epoch time: 50.78s)
+Epoch 60: l_f = 0.027166, l_q = 0.000061, avg S = 0.5493/2.0794, max S = 1.0344/2.0794 (epoch time: 53.64s)
+Epoch 70: l_f = 0.017453, l_q = 0.000101, avg S = 0.5511/2.0794, max S = 1.0397/2.0794 (epoch time: 50.33s)
+Epoch 80: l_f = 0.010980, l_q = 0.000039, avg S = 0.5520/2.0794, max S = 1.0440/2.0794 (epoch time: 53.59s)
+Epoch 90: l_f = 0.007690, l_q = 0.000069, avg S = 0.5533/2.0794, max S = 1.0459/2.0794 (epoch time: 55.23s)
+SubTraining time: 4542.06s
+L_f = 0.007005, L_q = 0.000061
+[SUMMARY] Full script time: 4551.84s
+[/bin/bash] Script finished
+[/bin/bash] Copy files back to cwd
+[/bin/bash] Successfully copied results to /home/s4116488/Documents/MPS/cuda-samples/plots8_bond_8/index_5
+[/bin/bash] #### Finished GPU TensorCircuit array job. Have a nice day
