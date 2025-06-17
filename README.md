@@ -1,2 +1,4 @@
-# MEP
-The Role of Entanglement in Solving Differential Equations
+# The Role of Entanglement in Solving Differential Equations
+Paper link
+Installation requirements
+...
