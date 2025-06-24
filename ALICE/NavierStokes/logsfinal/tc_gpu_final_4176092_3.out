@@ -1,0 +1,101 @@
+[/bin/bash] #### Starting GPU TensorCircuit array job
+[/bin/bash] This is s4116488 and my MPS job has the ID 4176096, Task ID 3
+[/bin/bash] Using bond dimension: 8 and init index: 3
+[/bin/bash] CWD: /home/s4116488/Documents/MPS/cuda-samples
+[/bin/bash] Using GPU: 0
+[/bin/bash] Path of python file: /home/s4116488/Documents/MPS/cuda-samples
+[/bin/bash] Node scratch: /scratchdata/s4116488/4176096
+[/bin/bash] Run directory/scratchdata/s4116488/4176096/tc_gpu_final_bond_8_init_3_4176096
+[/bin/bash] Run script with bond dimension 8 and init index 3
+
+[INFO] Running train with bond dimension: 8
+[INFO] Using init index: 3
+Epoch 0: l_f = 1.611780 (epoch time: 118.23s)
+Epoch 10: l_f = 0.089562 (epoch time: 91.46s)
+Epoch 20: l_f = 0.076447 (epoch time: 94.23s)
+Epoch 30: l_f = 0.064715 (epoch time: 93.59s)
+Epoch 40: l_f = 0.042702 (epoch time: 94.61s)
+Epoch 50: l_f = 0.035443 (epoch time: 98.41s)
+Epoch 60: l_f = 0.029682 (epoch time: 102.42s)
+Epoch 70: l_f = 0.024633 (epoch time: 100.00s)
+Epoch 80: l_f = 0.025909 (epoch time: 99.01s)
+Epoch 90: l_f = 0.026383 (epoch time: 100.11s)
+Epoch 100: l_f = 0.027994 (epoch time: 101.61s)
+Epoch 110: l_f = 0.023611 (epoch time: 97.47s)
+Epoch 120: l_f = 0.022901 (epoch time: 96.55s)
+Epoch 130: l_f = 0.023081 (epoch time: 110.87s)
+Epoch 140: l_f = 0.016259 (epoch time: 91.60s)
+Epoch 150: l_f = 0.015784 (epoch time: 91.53s)
+Epoch 160: l_f = 0.016040 (epoch time: 97.03s)
+Epoch 170: l_f = 0.014046 (epoch time: 94.99s)
+Epoch 180: l_f = 0.016625 (epoch time: 87.75s)
+Epoch 190: l_f = 0.015456 (epoch time: 93.84s)
+SubTraining time: 19523.19s
+L_f = 0.012563
+Epoch 0: l_f = 28.612122 (epoch time: 210.66s)
+Epoch 10: l_f = 2.857570 (epoch time: 150.02s)
+Epoch 20: l_f = 2.754900 (epoch time: 148.06s)
+Epoch 30: l_f = 1.979657 (epoch time: 157.19s)
+Epoch 40: l_f = 1.675587 (epoch time: 153.89s)
+Epoch 50: l_f = 1.519306 (epoch time: 158.33s)
+Epoch 60: l_f = 1.438521 (epoch time: 147.38s)
+Epoch 70: l_f = 1.390719 (epoch time: 157.64s)
+Epoch 80: l_f = 1.391971 (epoch time: 147.51s)
+Epoch 90: l_f = 1.366928 (epoch time: 150.02s)
+Epoch 100: l_f = 1.357646 (epoch time: 162.77s)
+Epoch 110: l_f = 1.317806 (epoch time: 159.36s)
+Epoch 120: l_f = 1.298643 (epoch time: 160.70s)
+Epoch 130: l_f = 1.285775 (epoch time: 162.24s)
+Epoch 140: l_f = 1.278607 (epoch time: 148.89s)
+Epoch 150: l_f = 1.251591 (epoch time: 151.23s)
+Epoch 160: l_f = 1.258101 (epoch time: 164.73s)
+Epoch 170: l_f = 1.225200 (epoch time: 147.94s)
+Epoch 180: l_f = 1.225629 (epoch time: 165.27s)
+Epoch 190: l_f = 1.208331 (epoch time: 150.32s)
+Epoch 200: l_f = 1.191906 (epoch time: 149.16s)
+Epoch 210: l_f = 1.164869 (epoch time: 168.69s)
+Epoch 220: l_f = 1.158772 (epoch time: 150.06s)
+Epoch 230: l_f = 1.139109 (epoch time: 152.99s)
+Epoch 240: l_f = 1.129472 (epoch time: 150.37s)
+Epoch 250: l_f = 1.115222 (epoch time: 149.88s)
+Epoch 260: l_f = 1.126489 (epoch time: 148.24s)
+Epoch 270: l_f = 1.088084 (epoch time: 148.66s)
+Epoch 280: l_f = 1.074984 (epoch time: 148.03s)
+Epoch 290: l_f = 1.083973 (epoch time: 151.47s)
+Epoch 300: l_f = 1.049114 (epoch time: 175.07s)
+Epoch 310: l_f = 1.046242 (epoch time: 148.94s)
+Epoch 320: l_f = 1.013351 (epoch time: 149.93s)
+Epoch 330: l_f = 1.017466 (epoch time: 149.65s)
+Epoch 340: l_f = 0.968900 (epoch time: 176.72s)
+Epoch 350: l_f = 0.995363 (epoch time: 150.64s)
+Epoch 360: l_f = 0.956110 (epoch time: 149.74s)
+Epoch 370: l_f = 0.939982 (epoch time: 150.24s)
+Epoch 380: l_f = 0.941392 (epoch time: 149.99s)
+Epoch 390: l_f = 0.900704 (epoch time: 177.30s)
+Epoch 400: l_f = 0.895797 (epoch time: 152.93s)
+Epoch 410: l_f = 0.894850 (epoch time: 178.96s)
+Epoch 420: l_f = 0.870900 (epoch time: 152.85s)
+Epoch 430: l_f = 0.855049 (epoch time: 151.32s)
+Epoch 440: l_f = 0.853939 (epoch time: 149.06s)
+Epoch 450: l_f = 0.851638 (epoch time: 152.20s)
+Epoch 460: l_f = 0.827699 (epoch time: 182.02s)
+Epoch 470: l_f = 0.834897 (epoch time: 151.60s)
+Epoch 480: l_f = 0.809333 (epoch time: 152.12s)
+Epoch 490: l_f = 0.792097 (epoch time: 184.76s)
+Epoch 500: l_f = 0.782822 (epoch time: 150.79s)
+Epoch 510: l_f = 0.761766 (epoch time: 151.85s)
+Epoch 520: l_f = 0.755226 (epoch time: 149.58s)
+Epoch 530: l_f = 0.751762 (epoch time: 184.97s)
+Epoch 540: l_f = 0.728896 (epoch time: 148.01s)
+Epoch 550: l_f = 0.720481 (epoch time: 150.79s)
+Epoch 560: l_f = 0.719223 (epoch time: 152.14s)
+Epoch 570: l_f = 0.704063 (epoch time: 151.71s)
+Epoch 580: l_f = 0.693748 (epoch time: 150.09s)
+Epoch 590: l_f = 0.687174 (epoch time: 189.49s)
+SubTraining time: 92419.73s
+L_f = 0.665623
+[SUMMARY] Full script time: 112005.33s
+[/bin/bash] Script finished
+[/bin/bash] Copy files back to cwd
+[/bin/bash] Successfully copied results to /home/s4116488/Documents/MPS/cuda-samples/plotsfinal_bond_8/index_3
+[/bin/bash] #### Finished GPU TensorCircuit array job. Have a nice day
