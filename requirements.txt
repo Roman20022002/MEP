@@ -12,7 +12,7 @@ ml_dtypes==0.5.1
 networkx==3.4.2
 numpy==2.2.5
 optax==0.2.4
-pillow==11.2.1
+pillow==11.3.0
 pip==25.1.1
 pyparsing==3.2.3
 python-dateutil==2.9.0.post0
